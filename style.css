@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #8ef0ec;
+    color: #000000;
+    text-align: left;
+    padding: 1rem 0;
+    font-size: xx-large;
+  }
+  
+  section {
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 0 20px;
+  }
+  
+  h1, h2, h3, h4 {
+    color: #333;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  ul li {
+    margin-bottom: 10px;
+  }
+  
+  hr {
+    border: 1px solid #ccc;
+    margin: 20px 0;
+  }
+  
+  .photo {
+    max-width: 200px; /* Adjust the size as needed */
+    border-radius: 20%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    align-self: start;
+  }
